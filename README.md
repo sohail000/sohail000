@@ -7,7 +7,7 @@ AI/ML Engineer
 I work as an AI Engineering Analyst, where I combine my love for Python development with my skills in data science, machine learning, and AI. I'm all about creating efficient Python scripts that scale well, developing machine learning algorithms, and turning data into visual stories. My specialty is using Language Models with Azure and OpenAI to answer complex questions. I keep up with the latest tech trends and use a detail-oriented, creative approach to tackle tough challenges in business.
 
 * 🌍  I'm based in Rajasthan India
-* 🖥️  See my portfolio at [www.linkedin.com/in/sohail-khan-2158b3142](http://www.linkedin.com/in/sohail-khan-2158b3142)
+* 🖥️  See my portfolio at [https://www.linkedin.com/in/sohail-khan2](https://www.linkedin.com/in/sohail-khan2)
 * ✉️  You can contact me at [2013khansohail@gmail.com](mailto:2013khansohail@gmail.com)
 
 ### Skills
