@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML Engineer
 -----------------------------------
 
-I work as an AI Engineering Analyst, where I combine my love for Python development with my skills in data science, machine learning, and AI. I'm all about creating efficient Python scripts that scale well, developing machine learning algorithms, and turning data into visual stories. My specialty is using Language Models with Azure and OpenAI to answer complex questions. I keep up with the latest tech trends and use a detail-oriented, creative approach to tackle tough challenges in business.
+I design and develop scalable Python solutions, build machine learning models, and transform data into meaningful insights. My expertise lies in leveraging language models with Azure and OpenAI to tackle complex challenges. Passionate about AI and always staying ahead of the curve, I focus on writing clean, efficient code and delivering impactful solutions.
 
 * 🌍  I'm based in Rajasthan India
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/sohail-khan2](https://www.linkedin.com/in/sohail-khan2)
